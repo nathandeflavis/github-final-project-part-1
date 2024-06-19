@@ -2,7 +2,7 @@
 A simple interest calculator (Final Project: Part 1 in [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
 # What does the project do?
-The project is a calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+The project is a calculator that calculates simple interest given the principal amount, annual rate of interest and time period in years.
 
 Input:
 - `p`, principal amount
