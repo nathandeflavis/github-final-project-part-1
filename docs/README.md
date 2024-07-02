@@ -2,14 +2,16 @@
 A simple interest calculator (Final Project: Part 1 in [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
 # What does the project do?
-The project is a calculator that calculates simple interest given the principal amount, annual rate of interest and time period in years.
+The project is a calculator that calculates simple interest given principal amount, time period in years and annual rate of interest.
 
+```
 Input:
-- `p`, principal amount
-- `t`, time period in years
-- `r`, annual rate of interest
-
-Output: simple interest = `p*t*r`
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output:
+   simple interest = p * t * r
+```
 
 ## Scenario
 I hosted a hypothetical company's sample code to calculate simple interest on GitHub in a new repository. I also followed best practices introduced in the course and created supporting documents for the open source project, including a code of conduct and contribution guidelines. Additionally, I made the repository available to the community under the Apache License 2.0.
