@@ -23,7 +23,7 @@ I hosted a hypothetical company's sample code to calculate simple interest on Gi
 6. Commit the new files to the repository.
 
 # Why is the project useful?
-It's an opportunity to put my Git and GitHub skills into practice.
+It's an opportunity to put my GitHub skills into practice.
 
 # How can users can get started with the project?
 Please see the project's [Code of Conduct](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CONTRIBUTING.md).
