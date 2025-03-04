@@ -1,5 +1,5 @@
 # github-final-project-part-1
-A simple interest calculator (Final Project: Part 1 in [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
+A simple interest calculator ('Final Project: Part 1' in [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
 # What does the project do?
 The project is a calculator that calculates simple interest given principal amount, time period in years and annual rate of interest.
