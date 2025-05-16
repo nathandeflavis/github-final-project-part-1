@@ -28,13 +28,13 @@ I hosted a hypothetical company's sample code to calculate simple interest on Gi
 It's an opportunity to put my GitHub skills into practice.
 
 # How can users can get started with the project?
-Please see the project's [Code of Conduct](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CONTRIBUTING.md).
+Please see the project's [Code of Conduct](https://github.com/nathangjdf/github-final-project-part-1/blob/main/docs/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/nathangjdf/github-final-project-part-1/blob/main/docs/CONTRIBUTING.md).
 
 # Where can users can get help with the project?
 Users can contact the project's maintainers and contributors for help.
 
 # Who maintains and contributes to the project?
-@nathandeflavis
+@nathangjdf
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 
